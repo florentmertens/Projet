@@ -1,0 +1,106 @@
+table {
+    margin: auto;
+    box-shadow: 0px 1px 5px black;
+    overflow: hidden;
+}
+
+thead {
+    background-color: rgb(53, 53, 53);
+}
+
+thead td {
+    color: white;
+}
+
+.index_body{
+    background-image: url(image/building-1210022_1920.jpg);
+}
+.index_h1{
+    text-align: center;
+    border: solid white;
+    width: fit-content;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.850);
+    box-shadow: 0px 0px 4px black;
+}
+
+.index_p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: fit-content;
+    font-size: x-large;
+    color: white;
+    border: solid white;
+    background-color: rgba(0, 0, 0, 0.850);
+    border-radius: 10px;
+}
+
+.index_div_inscription{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    width: fit-content;
+}
+
+.index_div_connexion{
+    margin-left: 450px;
+    margin-bottom: 25px;
+    width: fit-content;
+}
+
+.index_div_accueil{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    width: fit-content;
+}
+
+.index_div_btn1{
+    margin-right: 10px;
+}
+
+.index_div_btn3{
+    margin-left: 10px;
+}
+
+.index_btn{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    border: solid white;
+    background-color: rgba(0, 0, 0, 0.850);
+    border-radius: 10px;
+}
+
+form {
+    margin-top: 200px;
+}
+
+.label_form {
+    font-size: x-large;
+    color: white;
+    border: solid white;
+    background-color: rgba(0, 0, 0, 0.850);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
